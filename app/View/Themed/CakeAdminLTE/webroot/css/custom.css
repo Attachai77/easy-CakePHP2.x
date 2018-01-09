@@ -1,0 +1,18 @@
+.alert {
+    margin-left: 0px;
+}
+.alert-danger {
+    color: #fdfafa;
+    background-color: #EC262A;
+    border-color: #ebccd1;
+}
+.alert-success {
+    color: #fdfafa;
+    background-color: #228F2D;
+    border-color: #ebccd1;
+}
+.error-message{
+    color: #EC262A;
+}
+
+/* EC262A */

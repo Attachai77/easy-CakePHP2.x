@@ -1,0 +1,1018 @@
+2018-01-03 07:14:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/js/jquery.min.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 07:14:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/js/plugins/datatables/dataTables.bootstrap.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 07:14:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/js/plugins/datatables/jquery.dataTables.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 07:14:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/css/datatables/dataTables.bootstrap.css
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 07:14:01 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/js/plugins/datatables/dataTables.bootstrap.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 07:18:38 Error: [MissingViewException] View file "Pages\widgets.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\widgets.html.ctp',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/widgets.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\View\View.php(470): View->_getViewFileName('widgets.html')
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(963): View->render('widgets.html', NULL)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PagesController.php(68): Controller->render('widgets.html')
+#3 [internal function]: PagesController->display('widgets.html')
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2018-01-03 07:18:40 Error: [MissingViewException] View file "Pages\pages\widgets.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\pages\\widgets.html.ctp',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/pages/widgets.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\View\View.php(470): View->_getViewFileName('pages/widgets.h...')
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(963): View->render('pages/widgets.h...', NULL)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PagesController.php(68): Controller->render('pages/widgets.h...')
+#3 [internal function]: PagesController->display('pages', 'widgets.html')
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2018-01-03 07:18:40 Error: [MissingViewException] View file "Pages\pages\pages\widgets.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\pages\\pages\\widgets.html.ctp',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/pages/pages/widgets.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\View\View.php(470): View->_getViewFileName('pages/pages/wid...')
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(963): View->render('pages/pages/wid...', NULL)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PagesController.php(68): Controller->render('pages/pages/wid...')
+#3 [internal function]: PagesController->display('pages', 'pages', 'widgets.html')
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2018-01-03 07:19:13 Error: [MissingViewException] View file "Pages\widgets.html.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Pages\\widgets.html.ctp',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/widgets.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\View\View.php(470): View->_getViewFileName('widgets.html')
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(963): View->render('widgets.html', NULL)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PagesController.php(68): Controller->render('widgets.html')
+#3 [internal function]: PagesController->display('widgets.html')
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PagesController), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2018-01-03 07:29:21 Error: [MissingActionException] Action UsersController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'logout',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 07:30:03 Error: [MissingActionException] Action UsersController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'logout',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 07:30:06 Error: [MissingActionException] Action UsersController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'logout',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 07:30:48 Error: [MissingActionException] Action UsersController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'logout',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 07:30:51 Error: [MissingActionException] Action UsersController::profile() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'profile',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/profile
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 07:44:59 Error: [MissingActionException] Action UsersController::profile() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'profile',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/profile
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 07:45:58 Error: Fatal Error (1): Call to undefined method AuthComponent::loginRedirect() in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\UsersController.php, line 27]
+2018-01-03 07:45:58 Error: [FatalErrorException] Call to undefined method AuthComponent::loginRedirect()
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 27, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-03 07:46:36 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/home
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 13:31:51 Error: Fatal Error (4): syntax error, unexpected 'dHasher' (T_STRING) in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Model\User.php, line 23]
+2018-01-03 13:31:51 Error: [FatalErrorException] syntax error, unexpected 'dHasher' (T_STRING)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Users
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 23)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 23, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 23, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-03 13:31:54 Error: Fatal Error (4): syntax error, unexpected 'dHasher' (T_STRING) in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Model\User.php, line 23]
+2018-01-03 13:31:54 Error: [FatalErrorException] syntax error, unexpected 'dHasher' (T_STRING)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Users
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 23)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 23, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 23, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-03 13:51:49 Error: Fatal Error (1): Call to a member function prev() on null in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\View\Users\index.ctp, line 48]
+2018-01-03 13:51:49 Error: [FatalErrorException] Call to a member function prev() on null
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Users/index/sort:username/direction:desc
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 48)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 48, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 48, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-03 14:10:23 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\View\Posts\index.ctp, line 45]
+2018-01-03 14:10:23 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/posts
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 45, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-03 15:01:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/css/modal-animate/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 15:01:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/css/modal-animate/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 15:35:58 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/js/modal-animate/index.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 15:46:32 Error: [MissingActionException] Action PagesController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'css',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 15:46:32 Error: [MissingActionException] Action PagesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'js',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/js/index.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 15:46:33 Error: [MissingActionException] Action PagesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'js',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/js/index.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 15:46:39 Error: [MissingActionException] Action PagesController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'css',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/css/style.css
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 15:46:39 Error: [MissingActionException] Action PagesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'js',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/js/index.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 15:46:39 Error: [MissingActionException] Action PagesController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'js',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/js/index.js
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-03 17:57:38 Error: Fatal Error (4): syntax error, unexpected 'Post' (T_STRING), expecting ')' in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\View\Posts\index.ctp, line 35]
+2018-01-03 17:57:38 Error: [FatalErrorException] syntax error, unexpected 'Post' (T_STRING), expecting ')'
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/posts
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 35, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-03 18:14:22 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:23 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:23 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:24 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:24 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:24 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:24 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:24 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:24 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:14:25 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:15:22 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Post/delete
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:41:19 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/index
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 18:41:49 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/index
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-03 19:11:15 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "index.html"
+LINE 1: ... "public"."posts" AS "Post"   WHERE "Post"."id" = 'index.htm...
+                                                             ^
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Posts/edit/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1113): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3031): DboSource->read(Object(Post), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3003): Model->_readDataSource('count', Array)
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(2913): Model->find('count', Array)
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PostsController.php(70): Model->exists('index.html')
+#8 [internal function]: PostsController->edit('index.html')
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-01-03 19:11:17 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "index.html"
+LINE 1: ... "public"."posts" AS "Post"   WHERE "Post"."id" = 'index.htm...
+                                                             ^
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Posts/edit/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1113): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3031): DboSource->read(Object(Post), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3003): Model->_readDataSource('count', Array)
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(2913): Model->find('count', Array)
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PostsController.php(70): Model->exists('index.html')
+#8 [internal function]: PostsController->edit('index.html')
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-01-03 19:11:17 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "index.html"
+LINE 1: ... "public"."posts" AS "Post"   WHERE "Post"."id" = 'index.htm...
+                                                             ^
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Posts/edit/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1113): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3031): DboSource->read(Object(Post), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3003): Model->_readDataSource('count', Array)
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(2913): Model->find('count', Array)
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PostsController.php(70): Model->exists('index.html')
+#8 [internal function]: PostsController->edit('index.html')
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-01-03 19:11:18 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "index.html"
+LINE 1: ... "public"."posts" AS "Post"   WHERE "Post"."id" = 'index.htm...
+                                                             ^
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Posts/edit/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1113): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3031): DboSource->read(Object(Post), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3003): Model->_readDataSource('count', Array)
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(2913): Model->find('count', Array)
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PostsController.php(70): Model->exists('index.html')
+#8 [internal function]: PostsController->edit('index.html')
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-01-03 19:11:19 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "index.html"
+LINE 1: ... "public"."posts" AS "Post"   WHERE "Post"."id" = 'index.htm...
+                                                             ^
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Posts/edit/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1113): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3031): DboSource->read(Object(Post), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3003): Model->_readDataSource('count', Array)
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(2913): Model->find('count', Array)
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PostsController.php(70): Model->exists('index.html')
+#8 [internal function]: PostsController->edit('index.html')
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-01-03 19:11:23 Error: [PDOException] SQLSTATE[22P02]: Invalid text representation: 7 ERROR:  invalid input syntax for integer: "index.html"
+LINE 1: ... "public"."posts" AS "Post"   WHERE "Post"."id" = 'index.htm...
+                                                             ^
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Posts/edit/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('SELECT COUNT(*)...', Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(664): DboSource->execute('SELECT COUNT(*)...', Array, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1113): DboSource->fetchAll('SELECT COUNT(*)...', false)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3031): DboSource->read(Object(Post), Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3003): Model->_readDataSource('count', Array)
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(2913): Model->find('count', Array)
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\PostsController.php(70): Model->exists('index.html')
+#8 [internal function]: PostsController->edit('index.html')
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#10 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2018-01-03 19:19:36 Error: [MissingActionException] Action UsersController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'logout',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 03:43:19 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 03:43:39 Error: [MissingActionException] Action UsersController::login() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'login',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/login
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 03:56:33 Error: Fatal Error (1): Call to a member function allow() on null in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\AppController.php, line 57]
+2018-01-04 03:56:33 Error: [FatalErrorException] Call to a member function allow() on null
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/posts
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 57)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 57, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 57, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-04 07:24:34 Error: [NotFoundException] Not Found
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Topics/index/page:3
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\TopicsController.php(34): PaginatorComponent->paginate()
+#1 [internal function]: TopicsController->index()
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(TopicsController), Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TopicsController), Object(CakeRequest))
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2018-01-04 07:24:42 Error: Fatal Error (4): syntax error, unexpected 'glyphicon' (T_STRING) in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\View\Topics\index.ctp, line 8]
+2018-01-04 07:24:42 Error: [FatalErrorException] syntax error, unexpected 'glyphicon' (T_STRING)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Topics/index/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-04 07:24:44 Error: Fatal Error (4): syntax error, unexpected 'glyphicon' (T_STRING) in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\View\Topics\index.ctp, line 8]
+2018-01-04 07:24:44 Error: [FatalErrorException] syntax error, unexpected 'glyphicon' (T_STRING)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Topics/index/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-04 07:25:23 Error: Fatal Error (4): syntax error, unexpected 'topic' (T_STRING) in [C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\View\Topics\index.ctp, line 11]
+2018-01-04 07:25:23 Error: [FatalErrorException] syntax error, unexpected 'topic' (T_STRING)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Topics/index/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Error\ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2018-01-04 07:38:48 Error: [NotFoundException] Not Found
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/Topics/index/page:2
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\TopicsController.php(34): PaginatorComponent->paginate()
+#1 [internal function]: TopicsController->index()
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(TopicsController), Array)
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TopicsController), Object(CakeRequest))
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#6 {main}
+2018-01-04 10:53:05 Error: [MissingViewException] View file "Documents\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Documents\\index.ctp',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/documents
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(963): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(200): Controller->render()
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DocumentsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2018-01-04 10:57:15 Error: [MissingTableException] Table revisions for model Revision was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'revisions',
+  'class' => 'Revision',
+  'ds' => 'default',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/documents
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3653): Model->setSource('revisions')
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(1387): Model->getDataSource()
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(2525): Model->schema()
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\Database\Postgres.php(395): DboSource->fields(Object(AppModel), 'Revision', '', false)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1749): Postgres->fields(Object(AppModel), 'Revision', '')
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1100): DboSource->generateAssociationQuery(Object(Document), Object(AppModel), 'belongsTo', 'Revision', Array, Array, false)
+#6 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3031): DboSource->read(Object(Document), Array)
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(3003): Model->_readDataSource('all', Array)
+#8 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Component\PaginatorComponent.php(196): Model->find('all', Array)
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\DocumentsController.php(91): PaginatorComponent->paginate()
+#10 [internal function]: DocumentsController->index()
+#11 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(DocumentsController), Array)
+#12 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DocumentsController), Object(CakeRequest))
+#14 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2018-01-04 10:58:03 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  zero-length delimited identifier at or near """"
+LINE 1: ... 'FALSE', '', '', '', '', '', '', '', '', '', '', "", NULL, ...
+                                                             ^
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/documents/add
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('INSERT INTO "pu...', Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1019): DboSource->execute('INSERT INTO "pu...')
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(1933): DboSource->create(Object(Document), Array, Array)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\DocumentsController.php(117): Model->save(Array)
+#6 [internal function]: DocumentsController->add()
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(DocumentsController), Array)
+#8 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(DocumentsController), Object(CakeRequest))
+#10 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2018-01-04 10:59:45 Error: [PDOException] SQLSTATE[42601]: Syntax error: 7 ERROR:  zero-length delimited identifier at or near """"
+LINE 1: ...odified", "created") VALUES ('FALSE', 'aaaaaaaa', "", NULL, ...
+                                                             ^
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/SpeedTypes/add
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(461): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(427): DboSource->_execute('INSERT INTO "pu...', Array)
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Datasource\DboSource.php(1019): DboSource->execute('INSERT INTO "pu...')
+#3 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(1933): DboSource->create(Object(SpeedType), Array, Array)
+#4 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Model\Model.php(1751): Model->_doSave(Array, Array)
+#5 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\Controller\SpeedTypesController.php(75): Model->save(Array)
+#6 [internal function]: SpeedTypesController->add()
+#7 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(SpeedTypesController), Array)
+#8 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(SpeedTypesController), Object(CakeRequest))
+#10 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2018-01-04 11:04:01 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:04:03 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:04:03 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:04:04 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:04:04 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:04:04 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:06:20 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:06:21 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:06:22 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:06:22 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:06:49 Error: [MissingActionException] Action PagesController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'index',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 11:06:59 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 16:06:47 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 16:06:52 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-04 16:07:07 Error: [MissingControllerException] Controller class TopicController could not be found.
+Exception Attributes: array (
+  'class' => 'TopicController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/topic
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-04 17:12:56 Error: [MissingActionException] Action PagesController::charts() could not be found.
+Exception Attributes: array (
+  'controller' => 'PagesController',
+  'action' => 'charts',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/pages/charts/morris.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:23:58 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:24:24 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:24:25 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:24:26 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:24:27 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:37:54 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:42:29 Error: [MissingActionException] Action UsersController::home() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'home',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:53:04 Error: [MissingActionException] Action UsersController::logout() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'logout',
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/users/logout
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#2 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2018-01-08 04:53:34 Error: [MissingControllerException] Controller class Index.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Index.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-08 04:53:36 Error: [MissingControllerException] Controller class Index.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Index.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2018-01-08 04:53:36 Error: [MissingControllerException] Controller class Index.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Index.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /CakePHP%20EASY%20DEMO/EASY_DEMO3/index.html
+Stack Trace:
+#0 C:\xampp\htdocs\CakePHP EASY DEMO\EASY_DEMO3\app\webroot\index.php(111): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
